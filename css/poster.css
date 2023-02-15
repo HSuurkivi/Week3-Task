@@ -29,7 +29,7 @@ html {
     100% {transform: translateY(0);}
 }
 
-.movie-poster-container img {
+.movie-poster img {
     margin-top: 2rem;
     height: 500px;
     border-radius:30px;
